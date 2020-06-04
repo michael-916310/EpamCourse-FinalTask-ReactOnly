@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EpamCourse-ReactOnly-Deploy/static/css/main.c4d59ff8.chunk.css",
+    "main.js": "/EpamCourse-ReactOnly-Deploy/static/js/main.820fc348.chunk.js",
+    "main.js.map": "/EpamCourse-ReactOnly-Deploy/static/js/main.820fc348.chunk.js.map",
+    "runtime-main.js": "/EpamCourse-ReactOnly-Deploy/static/js/runtime-main.cf0aee1e.js",
+    "runtime-main.js.map": "/EpamCourse-ReactOnly-Deploy/static/js/runtime-main.cf0aee1e.js.map",
+    "static/css/2.764ccc25.chunk.css": "/EpamCourse-ReactOnly-Deploy/static/css/2.764ccc25.chunk.css",
+    "static/js/2.8d639ac4.chunk.js": "/EpamCourse-ReactOnly-Deploy/static/js/2.8d639ac4.chunk.js",
+    "static/js/2.8d639ac4.chunk.js.map": "/EpamCourse-ReactOnly-Deploy/static/js/2.8d639ac4.chunk.js.map",
+    "index.html": "/EpamCourse-ReactOnly-Deploy/index.html",
+    "precache-manifest.a8e65ce2bdd18ff796afa80a007a9ef0.js": "/EpamCourse-ReactOnly-Deploy/precache-manifest.a8e65ce2bdd18ff796afa80a007a9ef0.js",
+    "service-worker.js": "/EpamCourse-ReactOnly-Deploy/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/EpamCourse-ReactOnly-Deploy/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.c4d59ff8.chunk.css.map": "/EpamCourse-ReactOnly-Deploy/static/css/main.c4d59ff8.chunk.css.map",
+    "static/js/2.8d639ac4.chunk.js.LICENSE.txt": "/EpamCourse-ReactOnly-Deploy/static/js/2.8d639ac4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0aee1e.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.8d639ac4.chunk.js",
+    "static/css/main.c4d59ff8.chunk.css",
+    "static/js/main.820fc348.chunk.js"
+  ]
+}
